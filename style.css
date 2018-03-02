@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Open Sans;
+  font-weight: lighter;
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 40px;
+  font-size: 14px;
+  
+
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  
+}
+
+h1{
+  font-size: 2.8em;
+}
+
+h2{
+  font-size: 1.6em;
+}
+
+
+.top-links {
+  display: inline-block;
+  float: right;
+  margin: 0 20px 0 0;
+  position: relative;
+  bottom: 20px;
+
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;  
+}
+
+.heart{
+  padding-right: 20px;
+  font-size: 15px;
+  height: 19px;
+  margin-left: 15px;
+}
+
+
+.header{
+ position: relative;
+ color: white;
+ background-image: url("city-scape.svg");
+ background-size: cover;
+
+}
+
+.bar {
+ padding: 20px;
+}
+
+.npm-logo {
+  height: 50px;
+}
+
+
+.searchbar {
+ background: rgb(31, 82, 111);
+ position: relative;
+ bottom: 20px;
+ width: 70%;
+ height: 40px;
+ margin: 10px;
+ padding: 0 12px;
+ border: 1px solid grey;
+ color: grey;
+ font-size: 15px;
+  
+}
+
+
+
+.signup{
+  text-decoration: none;
+  color: white;
+
+}
+
+.bear-logo{
+  height: 50px;
+}
+
+
+.header-content{
+
+  margin: 0 auto;
+  padding: 30px 0px 180px 0px;
+  width: 40%;
+  position: relative;
+  right: 230px;
+  
+  
+}
+
+
+.section-text{
+
+  font-size: 1.1em;
+  text-align: left;
+  padding: 20px;
+ 
+}
+
+.sign-up {
+  background-color: rgb(235, 132, 48);
+  color: #fff;
+  border-radius: 50px;
+  font-size: 0.8em;
+  letter-spacing: 0.5px;
+  margin: 80px auto 0;
+  padding: 8px 30px;
+  text-align: left;
+  text-decoration: none;
+  width: 150px;
+}
+
+
+
+#npm-orgs{
+  
+  color: white;
+  background: rgb(39, 53, 71);
+  padding: 130px;
+}
+
+.collaboration-picture{
+  padding: 0 0 0 60px;
+  width: 50%;
+  margin: 0 auto;
+
+
+
+}
+
+.content-collaboration {
+  float: right;
+  width: 36%;
+  
+  text-align: left;
+  padding: 20px;
+  
+}
+
+.list{
+  font-size: 0.9em;
+  padding: 20px;
+}
+
+.list li {
+  padding: 8px;
+}
+
+.button-orgs{
+  
+    background-color: firebrick;
+    color: #fff;
+    border-radius: 50px;
+    font-size: 1em;
+    letter-spacing: 0.5px;
+    margin: 80px auto 0;
+    padding: 8px 30px;
+    text-align: left;
+    text-decoration: none;
+    width: 150px;
+
+}
+
+.learn-more {
+  text-decoration: none;
+  color: white;
+}
+
+#what-is-npm {
+  position: relative;
+  color: white;
+  background-image: url("forklift.svg");
+  background-size: cover;
+ 
+}
+
+.what-is{
+  margin: 0 auto;
+  padding: 100px 0px 180px 0px;
+  font-family: sans-serif;
+  font-size: 20px;
+  width: 30%;
+  position: relative;
+  right: 280px;
+}
+
+.install-npm{
+  font-size: 0.8em;
+  padding: 20px;
+  
+}
+
+.install-button{
+  background-color: darkslategray;
+  color: #fff;
+  border-radius: 50px;
+  font-size: 1em;
+  letter-spacing: 0.5px;
+  margin: 80px auto 0;
+  padding: 8px 30px;
+  text-align: left;
+  text-decoration: none;
+  width: 150px;
+}
+
+#what-can-you-make{
+  padding: 50px;
+  
+}
+
+.cuestion{
+  
+  text-align: center;
+  
+ }
+
+ .h3{
+   font-size: 2em;
+   color: black;
+ }
+
+ .paragraph{
+   padding: 20px;
+   color:gray;
+ }
+
+
+
+.building-blocks{
+  padding: 20px 30px;
+  color: grey;
+}
+
+.last-titles{
+  color: black;
+  font-size:1.2em;
+  padding-bottom: 10px;
+}
+
+.blocks {
+  float: left;
+  width: 33%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px 80px;
+  width: 250px;
+ 
+}
+
+.libraries{
+  color:red;
+  text-decoration: none;
+}
+  
+
